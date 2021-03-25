@@ -1,2 +1,2 @@
 # Jack
-nggk mau nggk suka gelay
+Git & Github
